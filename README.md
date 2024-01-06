@@ -8,9 +8,10 @@ My Diary Explore is a Flutter project designed to provide a user-friendly interf
 
 Include screenshots or GIFs showcasing different screens and features of your My Diary Explore app.
 
-| ![Image 1](./path-to-your-images/1.jpg) | ![Image 2](./path-to-your-images/2.jpg) | ![Image 3](./path-to-your-images/3.jpg) | ![Image 4](./path-to-your-images/4.jpg) |
-| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
-| ![Image 5](./path-to-your-images/5.jpg) | ![Image 6](./path-to-your-images/6.jpg) | ![Image 7](./path-to-your-images/7.jpg) | ![Image 8](./path-to-your-images/8.jpg) |
+| ![Image 1](./gitimg/1%20(1).jpg) | ![Image 2](./gitimg/1%20(2).jpg) | ![Image 3](./gitimg/1%20(3).jpg) | ![Image 4](./gitimg/1%20(4).jpg) |
+| -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- |
+| ![Image 5](./gitimg/1%20(5).jpg) | ![Image 6](./gitimg/1%20(6).jpg) | ![Image 7](./gitimg/1%20(7).jpg) | ![Image 8](./gitimg/1%20(8).jpg) |
+| ![Image 9](./gitimg/1%20(9).jpg) | ![Image 10](./gitimg/1%20(10).jpg)|![Image 10](./gitimg/1%20(11).jpg)|![Image 10](./gitimg/1%20(12).jpg)|
 
 ## Features
 
